@@ -1,7 +1,7 @@
-name: Scheduled Reminder
+name: Cron Reminder
 
 on:
-  workflow_dispatch:
+  repository_dispatch:
 
 jobs:
   run-job:
