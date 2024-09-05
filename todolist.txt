@@ -1,6 +1,8 @@
-1. Github code push done
-2. Triggering workflow done
-3. Cron-Job creation left
-4. Automation also left
+Target till dinner
+1. Reading newspaper of today and yesterday
+2. Watching 2 lectures of geography
+3. Brainstorm on 3 questions sent by PYQ Bot and ask its approach from Chatgpt
+4. PSIR starter concept brushup
 
-5. From now on, CSE till evening
+Code Side after dinner
+1. Read more about python erro handling
