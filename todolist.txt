@@ -1,2 +1,4 @@
-Testing code.
-Directly pushing it to github from here
+1. Pushing code to github done
+2. Next task, send this to telegram message
+3. Run a scheduler on github using actions
+4. Run cron-job to make work
