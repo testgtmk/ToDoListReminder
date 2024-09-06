@@ -26,6 +26,6 @@ if __name__ == '__main__':
     for line in lines:
         question += line
     send_message(question)
-    print(question)
+    #print(question)
     
     
