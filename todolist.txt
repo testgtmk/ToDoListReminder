@@ -1,8 +1,9 @@
-Target till dinner
-1. Reading newspaper of today and yesterday
-2. Watching 2 lectures of geography
-3. Brainstorm on 3 questions sent by PYQ Bot and ask its approach from Chatgpt
-4. PSIR starter concept brushup
+1. Reading Newspaper and notes making simultaneously
 
-Code Side after dinner
-1. Read more about python erro handling
+2. Geography lecture (2)
+
+3. PSIR article scroll
+
+4. Coding the Order matching engine
+
+5. Reading about Multithreading, locks etc
