@@ -17,7 +17,7 @@ def send_message(question):
     bot.send_message(CHAT_ID, question)
 # ""
 if __name__ == '__main__':
-    question = "Hey Gautam, here is your tasks for today. What is the status of them ? \n"
+    question = "Hey Gautam, here is your tasks for today. Lets work on that. \n \n"
     cnt = 1
     for filename in filenames:
         with open(filename, 'r',encoding="utf-8") as file:
