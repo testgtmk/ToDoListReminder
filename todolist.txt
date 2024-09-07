@@ -1,9 +1,7 @@
-1. Reading Newspaper and notes making simultaneously
+1. Yesterday Backlog
 
-2. Geography lecture (2)
+2. Read Newspaper
 
-3. PSIR article scroll
+3. Complete 2 geography lectures
 
-4. Coding the Order matching engine
-
-5. Reading about Multithreading, locks etc
+4. Brainstorm PYQ questions
