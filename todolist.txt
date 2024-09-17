@@ -1,7 +1,41 @@
-1. Yesterday Backlog
+10:30 AM - 11:00 AM: Freshen Up
+- Take some time to freshen up and get ready for the day.
 
-2. Read Newspaper
+11:00 AM - 12:40 PM: Geography Lecture 1
+- Watch the first geography lecture.
 
-3. Complete 2 geography lectures
+12:40 PM - 1:00 PM: Break
+- Take a short break to relax.
 
-4. Brainstorm PYQ questions
+1:00 PM - 2:40 PM: Geography Lecture 2
+- Watch the second geography lecture.
+
+2:40 PM - 3:30 PM: Lunch Break
+- Have lunch and take some time to relax.
+
+3:30 PM - 4:00 PM: Newspaper Reading
+- Read the newspaper to stay updated with current affairs.
+
+4:00 PM - 5:40 PM: Geography Lecture 3
+- Watch the third geography lecture.
+
+5:40 PM - 6:00 PM: Break
+- Take a short break to relax.
+
+6:00 PM - 7:40 PM: Geography Lecture 4
+- Watch the fourth geography lecture.
+
+7:40 PM - 8:30 PM: Dinner Break
+- Have dinner and relax.
+
+8:30 PM - 10:00 PM: Coding Practice
+- Spend time learning and practicing coding. You can work on your interactive timeline project using React and Tailwind CSS.
+
+10:00 PM - 10:30 PM: Break
+- Take a short break to relax.
+
+10:30 PM - 11:30 PM: General Studies/Optional Subject
+- Study for your UPSC CSE preparation, focusing on general studies or your optional subject.
+
+11:30 PM: Wind Down
+- Start winding down for the night, preparing for bed.
