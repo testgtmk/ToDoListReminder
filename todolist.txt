@@ -6,19 +6,19 @@
 
 01:00 PM - 02:40 PM  Geography Lecture 2 (100 mins)
 
-02:40 PM - 03:10 PM  Lunch/Break
+02:40 PM - 03:40 PM  Lunch/Break (1 hour)
 
-03:10 PM - 04:50 PM  Geography Lecture 3 (100 mins)
+03:40 PM - 05:20 PM  Geography Lecture 3 (100 mins)
 
-04:50 PM - 05:00 PM  Short Break
+05:20 PM - 05:35 PM  Leisure Break (15 mins)
 
-05:00 PM - 06:40 PM  Geography Lecture 4 (100 mins)
+05:35 PM - 07:15 PM  Geography Lecture 4 (100 mins)
 
-06:40 PM - 07:10 PM  Break
+07:15 PM - 07:45 PM  Break
 
-07:10 PM - 08:00 PM  Read Newspaper
+07:45 PM - 08:30 PM  Read Newspaper
 
-08:00 PM - 09:30 PM  Work on Coding Project
+08:30 PM - 09:30 PM  Work on Coding Project
 - Idea 1: Build an Environment Quiz App (React + Tailwind CSS)
 - Idea 2: Create an Interactive Biodiversity Map (use a mapping API, React for interaction)
 
