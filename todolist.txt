@@ -1,41 +1,25 @@
-10:30 AM - 11:00 AM: Freshen Up
-- Take some time to freshen up and get ready for the day.
+10:00 AM - 11:10 AM  Freshen up and Breakfast
 
-11:00 AM - 12:40 PM: Geography Lecture 1
-- Watch the first geography lecture.
+11:10 AM - 12:50 PM  Geography Lecture 1 (100 mins)
 
-12:40 PM - 1:00 PM: Break
-- Take a short break to relax.
+12:50 PM - 01:00 PM  Short Break
 
-1:00 PM - 2:40 PM: Geography Lecture 2
-- Watch the second geography lecture.
+01:00 PM - 02:40 PM  Geography Lecture 2 (100 mins)
 
-2:40 PM - 3:30 PM: Lunch Break
-- Have lunch and take some time to relax.
+02:40 PM - 03:10 PM  Lunch/Break
 
-3:30 PM - 4:00 PM: Newspaper Reading
-- Read the newspaper to stay updated with current affairs.
+03:10 PM - 04:50 PM  Geography Lecture 3 (100 mins)
 
-4:00 PM - 5:40 PM: Geography Lecture 3
-- Watch the third geography lecture.
+04:50 PM - 05:00 PM  Short Break
 
-5:40 PM - 6:00 PM: Break
-- Take a short break to relax.
+05:00 PM - 06:40 PM  Geography Lecture 4 (100 mins)
 
-6:00 PM - 7:40 PM: Geography Lecture 4
-- Watch the fourth geography lecture.
+06:40 PM - 07:10 PM  Break
 
-7:40 PM - 8:30 PM: Dinner Break
-- Have dinner and relax.
+07:10 PM - 08:00 PM  Read Newspaper
 
-8:30 PM - 10:00 PM: Coding Practice
-- Spend time learning and practicing coding. You can work on your interactive timeline project using React and Tailwind CSS.
+08:00 PM - 09:30 PM  Work on Coding Project
+- Idea 1: Build an Environment Quiz App (React + Tailwind CSS)
+- Idea 2: Create an Interactive Biodiversity Map (use a mapping API, React for interaction)
 
-10:00 PM - 10:30 PM: Break
-- Take a short break to relax.
-
-10:30 PM - 11:30 PM: General Studies/Optional Subject
-- Study for your UPSC CSE preparation, focusing on general studies or your optional subject.
-
-11:30 PM: Wind Down
-- Start winding down for the night, preparing for bed.
+09:30 PM onwards  Dinner and Relax
