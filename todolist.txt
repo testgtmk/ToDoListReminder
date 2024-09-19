@@ -1,25 +1,43 @@
-10:00 AM - 11:10 AM  Freshen up and Breakfast
+### Daily Timetable
 
-11:10 AM - 12:50 PM  Geography Lecture 1 (100 mins)
+**9:15 AM - 10:45 AM**: Freshen Up & Breakfast
+- Take your time to freshen up, have a healthy breakfast, and get ready for the day.
 
-12:50 PM - 01:00 PM  Short Break
+**10:45 AM - 12:25 PM**: Geography Lecture 1
+- Focus on geographical concepts, maps, and current affairs related to geography.
 
-01:00 PM - 02:40 PM  Geography Lecture 2 (100 mins)
+**12:25 PM - 12:45 PM**: Break
+- Relax, stretch, or have a light snack.
 
-02:40 PM - 03:40 PM  Lunch/Break (1 hour)
+**12:45 PM - 2:25 PM**: Geography Lecture 2
+- Continue with your geography studies, diving deeper into important topics.
 
-03:40 PM - 05:20 PM  Geography Lecture 3 (100 mins)
+**2:25 PM - 3:00 PM**: Lunch Break
+- Have a nutritious lunch and take a short break.
 
-05:20 PM - 05:35 PM  Leisure Break (15 mins)
+**3:00 PM - 4:40 PM**: Geography Lecture 3
+- Complete your geography studies for the day with this session.
 
-05:35 PM - 07:15 PM  Geography Lecture 4 (100 mins)
+**4:40 PM - 5:00 PM**: Break
+- Take a short walk, listen to music, or meditate.
 
-07:15 PM - 07:45 PM  Break
+**5:00 PM - 6:30 PM**: Newspaper Reading
+- Catch up on current affairs, editorials, and important news articles.
 
-07:45 PM - 08:30 PM  Read Newspaper
+**6:30 PM - 7:00 PM**: Break
+- Relax and unwind before the next study session.
 
-08:30 PM - 09:30 PM  Work on Coding Project
-- Idea 1: Build an Environment Quiz App (React + Tailwind CSS)
-- Idea 2: Create an Interactive Biodiversity Map (use a mapping API, React for interaction)
+**7:00 PM - 8:30 PM**: Study Session (Polity)
+- Focus on constitutional articles, important amendments, and landmark judgments.
 
-09:30 PM onwards  Dinner and Relax
+**8:30 PM - 9:00 PM**: Dinner Break
+- Have dinner and relax.
+
+**9:00 PM - 10:30 PM**: Tech Project Work
+- Work on your tech projects related to history or geography. Explore APIs and build something useful.
+
+**10:30 PM - 11:00 PM**: Wind Down
+- Reflect on the day, plan for tomorrow, and relax before bed.
+
+**11:00 PM**: Bedtime
+- Get a good night's sleep.
